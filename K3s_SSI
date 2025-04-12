@@ -78,3 +78,7 @@ agents:
     port: 8125
     useHostPort: true
     nonLocalTraffic: true
+
+
+4. Deploy Agent with the above configuration file
+helm install datadog-agent -f datadog-values.yaml datadog/datadog
