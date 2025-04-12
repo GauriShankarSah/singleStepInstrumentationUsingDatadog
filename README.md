@@ -19,4 +19,4 @@ Configuration tips for better performance
 
 📺 YouTube Walkthrough:
 Watch the video tutorial here
-
+https://youtu.be/M1x7pSvHotk?si=ZFQOF81AWpWuitJt
