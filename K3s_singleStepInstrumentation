@@ -56,15 +56,6 @@ clusterAgent:
     ## admission.datadoghq.com/enabled="true"
     #
     mutateUnlabelled: true
-
-apm:
-  instrumentation:
-    enabled: true
-    targets:
-      - name: "all"
-        namespaceSelector: {}
-        podSelector: {}
-
 agents:
   tolerations:
     - effect: NoSchedule
